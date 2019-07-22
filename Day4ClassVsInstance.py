@@ -7,9 +7,8 @@ class Person:
 
         # Add some more code to run some checks on initialAge
         #If initial age is less than 0
-
+        self.age = 0
         if initialAge < 0:
-            self.age = 0
             #print age is not valid
             print("Age is not valid, setting age to 0.")
         else:
