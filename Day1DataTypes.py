@@ -12,7 +12,7 @@ e = InputFloat
 t = InputString
 # Print the sum of both integer variables on a new line.
 print(i + j)
-# Print the sum of the double variables on a new line.
+# Print the sum of the float variables on a new line.
 print(d + e)
 # Concatenate and print the String variables on a new line
 # The 's' variable above should be printed first.
